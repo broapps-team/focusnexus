@@ -1,7 +1,7 @@
-## Privacy Policy for FocusNexus
-Effective Date: Feb 15, 2026 Contact: broapps.team@gmail.com
+## Privacy Policy for WiseSense
+Effective Date: Feb 23, 2026 Contact: broapps.team@gmail.com
 
-FocusNexus app helps you create and track medications and care items.
+WiseSense app helps you create and track medications and care items.
 
 ### What We Collect
 We do not collect personal data from your device or account.
@@ -12,7 +12,7 @@ We do not use third-party advertising SDKs or track you across apps or websites.
 If you enable notifications, they are used only to deliver reminders you configure.
 
 ### Children’s Privacy
-FocusNexus app is not directed to children under 13. If you believe a child provided us personal information, contact us at broapps.team@gmail.com to request deletion.
+WiseSense app is not directed to children under 13. If you believe a child provided us personal information, contact us at broapps.team@gmail.com to request deletion.
 
 ### Data Security
 We use industry-standard measures to protect information. No method of transmission or storage is 100% secure.

@@ -1,28 +1,72 @@
-## Privacy Policy for WiseSense
-Effective Date: Feb 23, 2026 Contact: broapps.team@gmail.com
+# Privacy Policy for WiseSense
 
-WiseSense app helps you create and track medications and care items.
+**Effective Date:** February 23, 2026
+**Contact:** [broapps.team@gmail.com](mailto:broapps.team@gmail.com)
 
-### What We Collect
-We do not collect personal data from your device or account.
-Your reminder data is stored locally on your device (and/or in your iCloud/backup if you enable it via system settings).
-We do not use third-party advertising SDKs or track you across apps or websites.
+WiseSense is a habit awareness app that helps you log habits, review patterns, and set personal goals. Your privacy is important to us.
 
-### Notifications
-If you enable notifications, they are used only to deliver reminders you configure.
+---
 
-### Children’s Privacy
-WiseSense app is not directed to children under 13. If you believe a child provided us personal information, contact us at broapps.team@gmail.com to request deletion.
+## What We Collect
 
-### Data Security
-We use industry-standard measures to protect information. No method of transmission or storage is 100% secure.
+WiseSense does **not collect, store, or transmit any personal data**.
 
-### Your Choices
-You can disable notifications anytime in iOS Settings → Notifications.
-You can delete the app to remove on-device data. (If you enabled iCloud/backup, data may persist in your Apple backups per your iCloud settings.)
+All habits, events, goals, and badges are stored locally on your device using on-device storage. We do not have access to your data.
 
-### Changes
-We may update this policy from time to time. We’ll post updates here and revise the Effective Date.
+WiseSense:
 
-### Contact
-Questions? Email us at broapps.team@gmail.com.
+* Does not use third-party analytics
+* Does not use advertising SDKs
+* Does not track you across apps or websites
+* Does not require an account or login
+
+If you enable iCloud backup through your Apple device settings, your app data may be included in your personal iCloud backups according to your Apple settings.
+
+---
+
+## Notifications
+
+If you enable notifications, they are used only to deliver 1 notification per day. You can disable notifications anytime in iOS Settings → Notifications.
+
+---
+
+## Children’s Privacy
+
+WiseSense is not directed to children under the age of 13.
+We do not knowingly collect personal information from children.
+
+If you believe a child has provided personal information, please contact us at [broapps.team@gmail.com](mailto:broapps.team@gmail.com).
+
+---
+
+## Data Security
+
+All data is stored locally on your device.
+We use industry-standard development practices to protect app integrity.
+
+However, no method of electronic storage is 100% secure.
+
+---
+
+## Your Choices
+
+You can:
+
+* Delete the app at any time to remove all on-device data.
+* Manage iCloud backups through your Apple device settings.
+
+WiseSense does not retain copies of your data.
+
+---
+
+## Changes to This Policy
+
+We may update this Privacy Policy from time to time.
+Any updates will be posted here with a revised Effective Date.
+
+---
+
+## Contact
+
+If you have questions about this Privacy Policy, please contact:
+**[broapps.team@gmail.com](mailto:broapps.team@gmail.com)**
